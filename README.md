@@ -1,7 +1,7 @@
-#Amazon Product Web Scraper
+# Amazon Product Web Scraper
   - This project provides a set of Python scripts to scrape product information from Amazon.com.
 
-##Features
+## Features
   - Product Page Scraper: Extracts detailed product data from individual Amazon product pages. This includes:
   - Product title
   - Price
@@ -9,11 +9,11 @@
   - MRPs
   - Ratings
 
-##Search Results Scraper:
+## Search Results Scraper:
   - Scrapes product listings from Amazon search result pages.
   - Setup
 
-##Prerequisites:
+## Prerequisites:
   - Python 3.6 or later
   - Selenium: Web browser automation framework (https://www.selenium.dev/documentation/webdriver/)
   - ChromeDriver: Compatible version needed to control Chrome (https://chromedriver.chromium.org/downloads)
@@ -24,7 +24,7 @@
     - re: For regular expression operations, if needed
     - pandas: For organizing scraped data into dataframes
 
-##Installation:
+## Installation:
 **  Install Selenium:**
     - pip install selenium
 **  Download ChromeDriver:**
